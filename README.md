@@ -7,4 +7,3 @@
 - 🤔 I’m looking for help with blockchain Engineering materials.
 - 💬 Ask me about anything React Native
 - 📫 You can reach me @ - dev.sucre@gmail.com
-- 😄 Pronouns: He/Him
