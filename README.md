@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with blockchain Engineering materials.
 - 💬 Ask me about anything React Native
 - 📫 You can reach me here - dev.sucre@gmail.com
-- ![Fibo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmemmy)]
+  ![Fibo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmemmy)]
