@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm building @[Bridge Africa](www.bridge.africa)
-- 🔭 Lead Mobile Engineer @[Risevest](www.risevest.com)
+- 🔭 Co-Founder @[Bridge Africa](www.bridge.africa)
 - 🌱 I’m currently learning Rust, Solidity
 - 👯 I’m looking to collaborate on any project written in TS/JS(React, React Native, Node), Golang, Rust and Solidity.
 - 🤔 I’m looking for help with blockchain Engineering materials.
